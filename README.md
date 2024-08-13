@@ -1,3 +1,3 @@
 # Portfolio Website
 
-https://rajaryan.netlify.app/
+https://akasharul1.github.io
